@@ -42,12 +42,6 @@ python -m pip install --upgrade pip
 pip install -r requirements.txt
 ```
 
-Выполнить миграции:
-
-```
-python manage.py migrate
-```
-
 Запустить проект:
 
 ```
